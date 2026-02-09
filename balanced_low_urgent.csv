@@ -1,0 +1,201 @@
+id,subject,description,priority,category,createdAt,requesterEmail
+a9f3k2m7,Workstation crashes immediately on startup,"I cannot access my workstation at all, it crashes immediately after turning it on.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b1x8q4z9,VPN suddenly stopped working – no system access,VPN stopped working suddenly and I have no access to internal systems.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c7m2d8w1,Computer frozen and stuck on boot screen,My computer froze during work and now won’t boot past the loading screen.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d4z9k1p6,Team-wide loss of access to shared drive,"We lost access to the shared drive, none of the team can open project files.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e8q2m7x4,Email server outage – cannot send or receive mail,"Email server appears to be down, I’m not receiving or sending any messages.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f6p1z9k3,System restarting repeatedly – work blocked,"System keeps restarting every few minutes, impossible to continue working.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g2w8m4d7,Locked out of all internal services after update,I am locked out of all internal services after a system update.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h9x3k6p1,Network outage lasting over an hour,Network connection dropped and hasn’t recovered for over an hour.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i4m7z2q8,Critical application not launching – operations blocked,"Critical application fails to start, blocking our daily operations.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j1k9p3w6,Remote access unavailable to company network,"Remote access is unavailable, I cannot connect to the company network.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k7z4x2m8,Laptop cannot detect any network connections,Laptop does not recognize any network connections after reboot.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l6p8m1q3,Database connection failure blocking urgent work,Database connection error prevents me from completing urgent tasks.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m2x7k9w4,Repeated blue screen errors on workstation,My workstation shows a blue screen error repeatedly.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n9m1p6z8,VPN authentication failing with unknown error,VPN authentication fails with an unknown error message.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o4q3k7x2,Company portal completely inaccessible,Company portal is completely inaccessible from my account.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p8z6m4w1,System update broke access to internal tools,System update caused loss of access to multiple internal tools.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q1m9x7k3,Shared folders unavailable for entire department,"Shared folders are unavailable, affecting the whole department.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r6k4p2z8,Office-wide internet outage,Internet access inside the office is down for all employees.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+s7x1m9q4,Login failure after password reset,"I cannot log in after password reset, system rejects credentials.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+t2p8z6k3,Critical software crashes on launch,Critical software crashes immediately after launch.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+u9k7m4x1,Extreme network latency – systems unusable,"Network latency is extremely high, making systems unusable.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+v3z2p8m6,Workstation stuck on startup for extended time,Workstation stuck on startup screen for more than 20 minutes.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+w6m9k1q7,VPN disconnects immediately after connection,VPN disconnects instantly after connecting.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+x8p4z2m1,Access blocked to internal CRM system,Access to internal CRM system is blocked.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+y1k7x9p6,Email client fails to open,Company email client fails to open at all.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+z4m2q8k3,System freeze during meeting – unrecoverable,My system froze during a meeting and never recovered.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+a3k9x7p2,Internal services unreachable despite internet,Internal services are unreachable despite active internet connection.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b8m4z1q6,Computer boot failure with hardware error,"Computer does not boot, shows hardware error message.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c2p7k9m4,Cannot authenticate to internal network remotely,Cannot authenticate to internal network from home.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d6x1q8z3,Multiple applications not responding simultaneously,Multiple applications stopped responding simultaneously.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e9m2k4p7,Office network outage across all floors,Office network outage affecting all floors.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f1z8x6q3,Critical documents inaccessible for today’s work,I am unable to access critical documents needed for today.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g7p4m9k2,VPN connection timeout on every attempt,VPN connection times out every attempt.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h2x6z3k8,System crash caused loss of unsaved work,System crash caused loss of unsaved work.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i9q7p1m4,Company server not responding,Company server is not responding.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j6m8k2z3,Workstation rebooting automatically without warning,Workstation reboots automatically without warning.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k4x1p9q7,Network drive missing from system,Network drive disappeared from system.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l9z6m3k2,Login screen rejects valid credentials,Login screen does not accept correct credentials.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m8p2q4x7,Severe system performance degradation,"System performance degraded drastically, tasks cannot be completed.",Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n1k6z9m3,Internal tools stopped after recent update,Internal tools stopped working after recent update.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o7m4p2x8,Laptop cannot connect to Wi-Fi,Laptop cannot connect to any Wi-Fi network.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p3z9k1q6,Database unavailable for production tasks,Database system unavailable for production tasks.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q8x4m7p2,Company portal returning error 500,Company portal returns error 500 on every request.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r2k9z6m1,Account locked with no error message,I am locked out of my account with no error explanation.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+s4p8x7k3,VPN service reported as unavailable,VPN service unavailable according to system message.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+t9m1z6q4,Internal messaging tool offline,Internal messaging tool is completely offline.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+u6k3p9x8,Workstation shut down and will not start,Workstation shutdown unexpectedly and won’t start again.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+v1z4m2q7,Internet lost during critical operation,Internet connection lost during critical operation.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+w8p6k1x9,Internal repositories inaccessible for deployment,Cannot access internal repositories needed for deployment.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+x3m7q4z2,Repeated critical system error notifications,System displays repeated critical error notifications.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+y9k2p8m1,Authentication server unreachable,Authentication server seems unreachable.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+z6x4q7k3,Application crashes during login,Company application crashes during login process.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+a7m9p2x4,Network instability preventing work progress,Network instability prevents saving any work.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b3k6z8q1,Workstation stuck in reboot loop,Workstation stuck in reboot loop.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c9p4m1x7,Internal file server down,Internal file server is down.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d2z8k6q3,VPN credentials rejected unexpectedly,VPN credentials are rejected despite being correct.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e4x7p9m2,System update broke essential tools access,System update broke access to essential tools.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f8m3k1q6,Office network disconnected unexpectedly,Office network disconnected without notice.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g1p7z4x9,Computer not detecting ethernet connection,Computer does not detect ethernet connection.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h6k2m8q3,Internal dashboard unavailable for entire team,Internal dashboard unavailable for entire team.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i3x9p4z7,System error blocking user login,System error prevents user login.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j7m8q1k6,Software license validation failure,Company software license validation fails.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k9p2x6m4,VPN client crashes on startup,VPN client crashes on startup.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l4z7m1k8,Network outage blocking business operations,Network outage during working hours blocks operations.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m6q9x3p2,Workstation performance unusable,Workstation performance dropped to unusable levels.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n8k1m4z7,Internal API endpoints inaccessible,Cannot access internal API endpoints.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o2x6p9q3,System boot failure after power outage,System boot failure after power outage.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p7m4k8x1,Shared resources unavailable department-wide,Shared resources unavailable across department.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q9z2p6m4,Company email server unreachable,Company email server unreachable.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r1x7k3q8,Internal authentication service down,Internal authentication service not responding.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+s8m6p2z9,Critical system error on computer launch,Computer shows critical system error on launch.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+t4k1x7q6,Network drive access denied for all users,Network drive access denied for all users.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+u7z3m8p9,VPN tunnel cannot be established,VPN tunnel fails to establish.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+v2p4x6k1,Required application fails to launch,Application needed for work cannot be launched.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+w9m8q7z3,Internal system unavailable post-maintenance,Internal system unavailable after maintenance.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+x6k2p1m4,Workstation overheated and shut down,Workstation overheated and shut down unexpectedly.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+y4x9z8k7,Internal services consistently timing out,Internal services timing out consistently.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+z1m6q3p2,Office-wide network connection lost,Network connection lost across office.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+a8k4x7m1,System freezes during login,System freezes when logging in.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b2p6z9q8,VPN connection drops during use,VPN drops connection during usage.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c7x3m4k1,Company tools inaccessible both remotely and onsite,Company tools inaccessible from both office and remote.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d9k6p8z2,Database server not responding,Database server not responding to queries.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e1m7q4x6,Internal web portal completely down,Internal web portal completely down.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f4z8k2p9,Laptop cannot connect to company network,Laptop cannot connect to company network.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g6x1m9q7,System crash caused data access loss,System crash resulted in data access loss.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h8p2k4z3,Authentication error blocking system access,Authentication error blocks system access.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i7m6x9p1,Network interruption halted active processes,Network interruption stopped ongoing processes.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j4q2z8k7,Operating system not loading,Workstation does not load operating system.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k1p9m3x6,VPN server unreachable,VPN server unreachable.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l7z4k8q2,Company intranet inaccessible,Company intranet inaccessible.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m9x1p6k4,Continuous system error messages displayed,System shows continuous error messages.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n3k7m2z8,Internal storage unavailable,Internal storage unavailable.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o6p9q1x4,Network failure impacting production tasks,Network failure affecting production tasks.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p4m8z7k2,System update corrupted critical files,System update corrupted essential files.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q2x6k9p3,Software unable to verify user identity,Company software cannot verify user identity.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r8m4z1q7,VPN disconnection blocking remote work,VPN disconnection blocks remote work.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+s9k3p6x2,Internal platform down for all users,Internal platform inaccessible for all users.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+t1z7m8q4,System stuck on black screen after boot,System stuck on black screen after boot.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+u4p2k6x9,Network failure blocking shared services,Network failure prevents access to shared services.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+v7m9z1q3,Complete workstation failure – work blocked,Workstation failure blocks all work activities.,Urgent,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+w2k8x4p6,Password reset request,Could you please help me reset my password when you have time?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+x9m3q7z1,Request for access to internal tool,I would like to request access to a new internal tool for my project.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+y6p4k2x8,Zoom installation request,Can you install the latest version of Zoom on my workstation?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+z8q1m9p7,Update email signature format,I need help updating my email signature to the new company format.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+a4k6x2p9,Add to project distribution list,Please add me to the distribution list for project updates.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b7m1z8q3,Unable to edit profile information,I’m having trouble changing my profile information in the system.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c6x4p9k2,Read access request for documentation folder,Could you grant me read access to the shared documentation folder?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d8m7q1z6,Installation of approved browser extension,I need assistance installing an approved browser extension.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e2p6x9k4,Email setup on new device,Can you help me set up my email on a new device?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f9k3m7q8,Update user permissions for new role,Please update my user permissions according to my new role.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g4x1p6z2,Access request for internal wiki,I would like to request access to the internal wiki.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h7m9k8q4,Install required fonts on workstation,Can you install the required fonts on my computer?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i2p4z6x1,Assistance connecting additional monitor,I need help connecting a new monitor to my workstation.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j8k7m9q3,Change account display name,Please help me change my account display name.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k6x2p1z4,Help configuring email filters,Could you assist with configuring my email filters?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l3m9k7x8,Licensed software installation request,I would like to request installation of a licensed software.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m7q4z6p2,Add to shared team calendar,Can you add me to the shared calendar?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n4x8k1m9,Two-factor authentication setup assistance,I need help setting up two-factor authentication.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o9p2m6q7,Operating system update support,Please assist with updating my operating system.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p1z4x8k6,Access request to archived project files,Could you grant access to archived project files?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q6m9p3x7,Notification settings adjustment,I need help adjusting notification settings.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r7k1z2m8,Printer connection assistance,Can you assist with connecting a printer?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+s2x6p9k4,Add account to internal mailing list,Please add my account to the internal mailing list.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+t8m4z7q1,VPN setup for future remote work,I would like help setting up VPN for future remote work.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+u3p1x6k9,Account reset after failed login attempts,Can you reset my account after multiple failed login attempts?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+v9k2m7z4,Update contact information,I need assistance updating my contact details.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+w4x8p6q1,Install company-approved application,Could you help me install a company-approved application?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+x1m7k9z2,Update workstation name,Please update my workstation name in the system.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+y8p6x4m3,Temporary access to project folder,I would like to request temporary access to a project folder.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+z7k2q9p1,Configure email forwarding,Can you help me configure email forwarding?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+a6x8m4k9,Assistance with workstation updates,I need help installing updates on my workstation.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b1p7z3q6,User profile setup help,Could you assist with setting up my user profile?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c4m6x9k8,Add to collaboration platform,Please add me to the project collaboration tool.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d7p2k1z4,Access request to shared reports,I would like to request access to shared reports.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e9x6m3q8,Remove unused applications,Can you help me remove unused applications?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f2k8p4m7,New keyboard setup assistance,I need assistance setting up a new keyboard.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g1z9x6k3,Update user group membership,Could you update my user group membership?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h4m2q7p8,Change login preferences,Please help me change my login preferences.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i8k9x1m4,Install latest security patches,I would like help installing the latest security patches.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j6p7z2q9,Wireless mouse connection support,Can you assist with connecting a wireless mouse?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k3x4m8p1,Access to training materials,I need help accessing training materials.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l2z6k9q7,Add to internal chat channel,Could you add me to the internal chat channel?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m1p8x4z6,Software license activation help,Please assist with software license activation.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n7k2m9q3,Configure workstation settings,I would like help configuring my workstation settings.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o4x6p8k1,Install development tools,Can you install the required development tools?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p9m3z7x2,Setup new email alias,I need assistance setting up a new email alias.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q7k1p4m6,Update desktop configuration,Could you help me update my desktop configuration?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r2x9z8q3,Add to team shared drive,Please add me to the team’s shared drive.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+s6m4p1k7,Access request to historical data,I would like to request access to historical data.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+t9z2x8m6,Notification configuration assistance,Can you assist with configuring notifications?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+u1k4q7p9,Update system language settings,I need help updating my system language settings.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+v8x6m2z4,Install approved plugin,Could you install a company-approved plugin?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+w7p9k1q8,Enable automatic updates,Please help me set up automatic updates.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+x4m3z6p7,Change account preferences,I would like assistance changing my account preferences.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+y2k8x9q1,Access to internal training platform,Can you add me to the internal training platform?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+z9p6m4k2,Email client configuration help,I need help configuring my email client.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+a3m7k9x2,Headset setup assistance,Could you assist with setting up a new headset?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b8q1p6z4,Access request to internal dashboard,Please grant me access to the internal dashboard.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c2x9m4k7,Productivity software installation,I would like help installing productivity software.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d7k3z1p8,Display settings adjustment,Can you assist with adjusting display settings?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e9m6x2q4,Update user role permissions,I need assistance updating my user role.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f4k8p3z1,Enable calendar sharing,Could you help me enable calendar sharing?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g6x1m9q7,Install latest approved application,Please install the latest version of an approved application.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h2p7k4z8,Backup preferences setup,I would like help setting up backup preferences.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i9k6x1m3,Login options configuration,Can you assist with configuring my login options?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j4m2p8z7,Install additional language pack,I need help installing a second language pack.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k7x9m1q4,Update access rights,Could you update my access rights?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l1p6z8k2,Email notification setup,Please help me set up email notifications.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m8k3x7p4,Internal tools installation request,I would like assistance installing internal tools.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n2m9q1z6,Add to department mailing list,Can you add me to the department mailing list?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o6x4k8p2,Keyboard settings adjustment,I need help adjusting keyboard settings.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p9z1m7k3,Enable dark mode,Could you assist with enabling dark mode?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q3k6p2x9,Access to non-critical shared folders,Please grant access to non-critical shared folders.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r7m4z8k1,Setup new workspace environment,I would like help setting up a new workspace.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+s1x9p6m2,Install optional system updates,Can you assist with installing optional updates?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+t6k2z4p8,Update account details,I need assistance updating my account details.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+u4m7x1q9,Configure application preferences,Could you help me configure application preferences?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+v8p3k6z2,Add to internal resource group,Please add me to the internal resource group.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+w2x9m1p7,Enable screen sharing,I would like help enabling screen sharing.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+x7k4z8q6,Workspace layout configuration,Can you assist with configuring my workspace layout?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+y1m6p2x9,Optional software installation,I need help installing optional software.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+z9x3k7m4,Update system permissions,Could you update my system permissions?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+a6p9m2k7,Add new device to account,Please assist with adding a new device.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+b4x8q1z6,Email rules configuration,I would like help setting up email rules.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+c9m1k7p4,Enable notification preferences,Can you assist with enabling notifications?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+d2z6x8q3,Docking station setup assistance,I need assistance connecting a docking station.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+e7k4p9m1,Install approved security tools,Could you help me install approved security tools?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+f1x6z3k8,Add to internal user group,Please add me to the internal user group.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+g8p2m4q9,Configure workstation shortcuts,I would like help configuring workstation shortcuts.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+h3k7x1z6,Update user preferences,Can you assist with updating my user preferences?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+i4m8p6k2,Enable new account feature,I need help setting up a new account feature.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+j9x1k3q7,Install optional system component,Could you install an optional system component?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+k2z7m4p8,Adjust general system settings,Please help me adjust system settings.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+l8m9x6k1,Enable additional features,I would like assistance enabling additional features.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+m1p4z7q2,Configure access controls,Can you assist with configuring access controls?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+n6k8m9x3,Install internal software updates,I need help installing internal software updates.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+o2p7k1z4,Setup new user profile,Could you help me set up a new user profile?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+p8m3x9q6,Access request to general documentation,Please grant access to general documentation.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+q4k1z2p7,Workspace customization assistance,I would like help customizing my workspace.,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
+r9m6p8x3,Minor account configuration request,Can you assist with minor account configuration changes?,Low,Technical Support,2024-10-28T18:37:46.244Z,user123@acme.co
